@@ -39,6 +39,7 @@ TODO: Write history
 
 ## Credits
 TODO: Write credits
+- Template for this README is <a href="https://github.com/gitzain/template-README">Template-README</a> created by <a href="https://iamzain.com">Zain Khan</a>
 
 ## License
 See the LICENSE file in this project's directory.
