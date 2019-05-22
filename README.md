@@ -22,10 +22,13 @@ TODO: Screenshots of the app
 ## Installation & Usage
 
 ### Installation
-TODO: Describe the installation process
+TODO: Describe the installation process as below and delete this line
+1. Step 1 details here
+2. Step 2 details here
+3. Step 3 details here
 
 ### Usage
-TODO: Write usage instructions
+TODO: Write usage instructions as below and delete this line
 
 ## Contributing
 1. Fork it!
@@ -35,10 +38,11 @@ TODO: Write usage instructions
 5. Submit a pull request :D
 
 ## History
-TODO: Write history
+TODO: Write history as below and delete this line
 
 ## Credits
-TODO: Write credits
+TODO: Write credits as below and delete this line
+- Name of person
 - Template for this README is <a href="https://github.com/gitzain/template-README">Template-README</a> created by <a href="https://iamzain.com">Zain Khan</a>
 
 ## License
