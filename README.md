@@ -33,12 +33,14 @@ TODO: Write usage instructions as below and delete this line
 ## Contributing
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
+3. Commit your changes: `git commit -m 'Added some feature'`
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
 ## History
 TODO: Write history as below and delete this line
+22/05/19: v1 published to github.
+08/06/22: v2 updated an error in the 'Contributing' section and added examples of project 'History'.
 
 ## Credits
 TODO: Write credits as below and delete this line
