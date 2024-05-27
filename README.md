@@ -1,5 +1,5 @@
-# Template-README
-A simple and effective README.md template for all your github projects.
+# template-readme
+A simple README.md template for all your github projects.
 
 ## Table of content
 
@@ -45,7 +45,7 @@ TODO: Write history as below and delete this line
 ## Credits
 TODO: Write credits as below and delete this line
 - Name of person
-- Template for this README is <a href="https://github.com/gitzain/template-README">Template-README</a> created by <a href="https://iamzain.com">Zain Khan</a>
+- Template for this README is <a href="https://github.com/gitzain/template-README">template-readme</a> created by <a href="https://iamzain.com">Zain Khan</a>
 
 ## License
 See the LICENSE file in this project's directory.
